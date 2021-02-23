@@ -9,10 +9,7 @@ In caso di pareggio si itera il processo.
 Per fare una mossa è necessario fornire le coordinate della casella nella quale si vuole posizionare X o O.
 
 ESEMPIO
-* * *
-* * X
-* * *
-Per posizionare la X l'utente deve digitare 2->(invio) -> 3->(invio).
+Per posizionare la X nella casella individuata dalla seconda riga e dalla terza colonna l'utente deve digitare 2->(invio) -> 3->(invio).
 
 Al termine di ogni partita:
 - se si digita 0, si inizia una nuova partita;
